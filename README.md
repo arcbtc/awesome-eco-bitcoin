@@ -23,3 +23,4 @@ Actual examples of bitcoin having a direct positive environmental impact.
 * Waste mining/data center heat used for warming massive greenhouses https://www.grandforksherald.com/news/north-dakota/data-is-the-new-oil-bitzero-data-centers-in-north-dakota-valued-at-up-to-500m-announced 
 * Bitcoin unlocking ocean energy https://bitcoinmagazine.com/business/bitcoin-unlocks-ocean-energy
 * US miner aiming to use renewables https://www.cleanspark.com/bitcoin-mining/
+* Tesla, Block and Blockstream have teamed up to build sustainable mining operation https://www.tesmanian.com/blogs/tesmanian-blog/tesla-block-block-stream-team-up-to-mine-bitcoin-on-solar-power-in-texas
