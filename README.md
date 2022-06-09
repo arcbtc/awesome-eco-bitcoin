@@ -7,7 +7,7 @@ ACTUAL examples of bitcoin having a positive enviromental impact.
 ### Large Scale (100+ miners)
 
 ### Medium Scale (10-100 miners)
-* 
+
 ### Small scale (1-10 miners)
 
 ## Speculative/theoretical/proposed
