@@ -17,3 +17,5 @@ ACTUAL examples of bitcoin having a positive enviromental impact.
 ## Other 
 
 * Bitcoin miners being used to stablise Texas power grid https://twitter.com/saylor/status/1534618556947910656
+
+> Join our <a href="https://t.me/bitcoinenviromentalism">telegram</a> of hopeful advocates
