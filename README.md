@@ -1,6 +1,6 @@
 # Awesome-Eco-Bitcoin
 
-Actual examples of bitcoin having a direct positive enviromental impact.
+Actual examples of bitcoin having a direct positive environmental impact.
 
 > Join our <a href="https://t.me/bitcoinenviromentalism">telegram</a> of hopeful advocates
 
