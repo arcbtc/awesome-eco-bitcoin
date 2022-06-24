@@ -6,11 +6,13 @@ Actual examples of bitcoin having a direct positive environmental impact. PLEASE
 
 ## Bitcoin mining incentivizing renewable energy production 
 
-### Large Scale (100+ miners)
+### Large Scale (1000+ miners)
 
-### Medium Scale (10-100 miners)
+* Solar-Powered Bitcoin Miner Starts Operations in Colorado https:// www.coindesk.com/business/2022/06/23/new-solar-powered-bitcoin-miner-launches-operations-despite-difficult-market/
 
-### Small scale (1-10 miners)
+### Medium Scale (100-1000 miners)
+
+### Small scale (1-100 miners)
 
 ## Utilizing mining waste 
 
