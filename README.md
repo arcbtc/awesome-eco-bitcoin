@@ -12,6 +12,8 @@ Actual examples of bitcoin having a direct positive environmental impact. PLEASE
 
 ### Medium Scale (100-1000 miners)
 
+* Nevada-based Gryphon Digital Mining uses net carbon neutral hashing power https://www.prnewswire.com/news-releases/gryphon-digital-mining-announces-may-operational-update-301564605.html
+
 ### Small scale (1-100 miners)
 
 ## Utilizing mining waste 
