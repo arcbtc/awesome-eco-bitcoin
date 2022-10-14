@@ -17,11 +17,11 @@ Actual examples of bitcoin having a direct positive environmental impact. PLEASE
 ## Utilizing mining waste 
 
 * Heat from mining bitcoin being used to warm greenhouses full of flowers https://twitter.com/BloemBitcoin
-* How waste from old coal mine is powering a Bitcoin mine in a Pennsylvania town https://6abc.com/bitcoin-mining-cryptocurrency-panther-creek-plant-stronghold-digital/12324696/
 
 ## Other
 
 * Bitcoin miners being used to stablise Texas power grid https://twitter.com/saylor/status/1534618556947910656
+* How waste from old coal mine is powering a Bitcoin mine in a Pennsylvania town https://6abc.com/bitcoin-mining-cryptocurrency-panther-creek-plant-stronghold-digital/12324696/
 
 ## Speculative/theoretical/proposed
 
