@@ -2,7 +2,7 @@
 
 Examples of bitcoin having a direct positive environmental impact. Contributors very welcome 👍.
 
-> Join our <a href="https://t.me/bitcoinenviromentalism">telegram</a> of hopeful advocates
+> Join our ecologically minded <a href="https://t.me/bitcoinenviromentalism">telegram</a> group!
 
 ## Bitcoin mining incentivizing renewable energy production 
 
