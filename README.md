@@ -1,4 +1,4 @@
-# Awesome-Eco-Bitcoin 🍃
+# 🍃 Awesome-Eco-Bitcoin 🍃
 
 Examples of bitcoin having a direct positive environmental impact. Contributors very welcome 👍.
 
