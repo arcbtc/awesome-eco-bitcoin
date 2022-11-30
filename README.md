@@ -8,7 +8,7 @@ Examples of bitcoin having a direct positive environmental impact. Contributors 
 
 ### Large Scale 100MW +
 
-* Solar-Powered Bitcoin Miner Starts Operations in Colorado https:// www.coindesk.com/business/2022/06/23/new-solar-powered-bitcoin-miner-launches-operations-despite-difficult-market/
+* Solar-Powered Bitcoin Miner Starts Operations in Colorado https://www.coindesk.com/business/2022/06/23/new-solar-powered-bitcoin-miner-launches-operations-despite-difficult-market/
 
 ### Medium Scale 10-100MW
 
@@ -25,7 +25,7 @@ Examples of bitcoin having a direct positive environmental impact. Contributors 
 * Bitcoin miners being used to stablise Texas power grid https://twitter.com/saylor/status/1534618556947910656
 * How waste from old coal mine is powering a Bitcoin mine in a Pennsylvania town https://6abc.com/bitcoin-mining-cryptocurrency-panther-creek-plant-stronghold-digital/12324696/
 
-## Prorosals
+## Proposals
 
 * Waste mining/data center heat used for warming massive greenhouses https://www.grandforksherald.com/news/north-dakota/data-is-the-new-oil-bitzero-data-centers-in-north-dakota-valued-at-up-to-500m-announced 
 * Bitcoin unlocking ocean energy https://bitcoinmagazine.com/business/bitcoin-unlocks-ocean-energy
