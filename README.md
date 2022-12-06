@@ -13,6 +13,7 @@ Examples of bitcoin having a direct positive environmental impact. Contributors 
 ### Medium Scale 10-100MW
 
 * Nevada-based Gryphon Digital Mining uses net carbon neutral hashing power https://www.prnewswire.com/news-releases/gryphon-digital-mining-announces-may-operational-update-301564605.html
+* (announced) Gridless bringing new renewable energy generation to rural communities in East Africa https://gridlesscompute.com/2022/12/06/gridless-a-bitcoin-mining-company-in-east-africa-raises-2m-in-funding-led-by-stillmark-and-block-inc/
 
 ###  Small Scale 1-10MW
 
