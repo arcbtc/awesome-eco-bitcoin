@@ -40,6 +40,12 @@ Examples of bitcoin having a direct positive environmental impact. Contributors 
 
 ## Educational
 
+## Academic Research
+
+* A Flexible Nuclear Energy System Using Cryptoassets as Enablers: Economic Assessment https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4267750&dgcid=ejournal_htmlemail_cryptocurrency:research:ejournal_abstractlink
+* Bitcoin Mining to Reduce the Renewable Curtailment: A Case Study of Caiso https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3436872
+* Can Texas mitigate wind and solar curtailments by leveraging bitcoin mining? https://www.sciencedirect.com/science/article/abs/pii/S0959652622022983
+
 ### Presentations
 
 * https://mullojo.gitbook.io/solar-bitcoin-mining/
